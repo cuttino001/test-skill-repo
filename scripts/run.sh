@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "=== Skill Executed ==="
+echo "=== Skill Executed mw==="
 echo "Args: $@"
